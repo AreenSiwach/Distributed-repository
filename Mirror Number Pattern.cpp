@@ -1,6 +1,7 @@
+//Write code here
+//This is a Mirror Number Pattern
 #include<iostream>
 using namespace std;
-
 
 int main(){
      int n;
